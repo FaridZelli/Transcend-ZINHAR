@@ -7,6 +7,8 @@
 - Flat design with various transparency effects
 - New Startup and Shutdown animations
 
+[**---> Go to releases**](https://github.com/FaridZelli/Transcend-ZINHAR/releases)
+
 ### Installation:
 1) Enable Windows 7 compatibility mode
 2) Follow instructions on the screen, install like any other firmware
@@ -17,6 +19,8 @@
 ```
 v1 (Initial Release) - Based on v1.14.00 Official Firmware
 ```
+
+[Get all the firmware versions here!](https://github.com/FaridZelli/Transcend-Firmwares)
 
 ### Known Issues:
 - Minor UI inconsistencies
